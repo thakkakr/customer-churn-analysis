@@ -1,1 +1,1 @@
-# customer-churn-analysis
+End-to-end customer churn prediction pipeline using Python and scikit-learn. Covers EDA, feature engineering, Logistic Regression, Decision Tree, Random Forest, and HistGradientBoosting. Best model achieved ROC AUC of 0.7912. Built for BANA 4080 at the University of Cincinnati.
